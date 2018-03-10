@@ -15,6 +15,7 @@ public class Morning {
 		System.out.println("Tired");
 		
 		for (String string : args) {
+			System.out.println("Why it is so difficult?");
 			
 		}
 
