@@ -12,6 +12,7 @@ public class Morning {
 		
 
 		System.out.println("Aamin  when are you going to take OC exam?");
+		System.out.println("Tired");
 
 	}
 
