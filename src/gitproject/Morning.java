@@ -7,6 +7,7 @@ public class Morning {
 		System.out.println("Hello there");
 		System.out.println("How are you ? ok");
 		System.out.println("Hi Aamin");
+		String str="Next Month";
 		
 	}
 
